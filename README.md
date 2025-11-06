@@ -64,6 +64,12 @@ Ao enviar, os dados são processados dinamicamente pelo PHP e exibidos na tela.
 
 ---
 
+## 🖥️ Capturas de Tela
+
+| Formulário |  
+|:-------------:|
+| <img width="300" height="300" alt="Captura de tela 2025-11-06 161254" src="https://github.com/user-attachments/assets/f16b29e8-b5c4-4840-adbc-9d1422956c40" /> |
+
 
 ## 👩‍💻 Autora
 
