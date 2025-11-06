@@ -14,32 +14,19 @@ O foco é treinar conceitos de **backend básico** com PHP e **frontend** com HT
 
 ---
 
-## 🎨 Estilo Visual
+## 🎨 Design e Cores
 
-O design é simples e funcional, com foco na legibilidade:
+O design foi criado com base em tons fortes e contrastantes, transmitindo **energia e destaque** para o formulário.
 
-body {
-  background-color: #f2f2f2;
-  font-family: Arial;
-}
+| Elemento | Cor | Descrição |
+|-----------|------|-----------|
+| 🩶 **Fundo da página** | `#f2f2f2` | Cinza-claro que suaviza o contraste e destaca o formulário |
+| 🟥 **Fundo do formulário** | `rgb(202, 7, 7)` | Vermelho intenso, transmitindo força e urgência |
+| ❤️ **Botão de envio** | `rgb(126, 5, 5)` | Vermelho escuro para diferenciação visual e efeito de clique |
+| ⚪ **Texto e campos** | `#ffffff` | Branco puro, garante boa legibilidade sobre o fundo vermelho |
+| ⚫ **Borda do formulário** | `#cccccc` | Cinza discreto para separação sutil dos elementos |
 
-form {
-  background-color: rgb(202, 7, 7);
-  color: white;
-  width: 300px;
-  padding: 15px;
-  border: 1px solid #ccc;
-  margin: 20px;
-}
-
-input[type="submit"] {
-  background-color: rgb(126, 5, 5);
-  color: white;
-  border: none;
-  cursor: pointer;
-}
-
-💬 As cores vermelhas foram escolhidas para destacar os campos e dar contraste com o fundo cinza claro.
+> 💡 A combinação do **vermelho** com o **branco** cria um visual limpo, direto e com alto contraste, ideal para formulários de destaque ou mensagens de alerta.
 
 ---
 
