@@ -1,10 +1,5 @@
 <?php
-$servername = "localhost";
-$username = "root";
-$password = "Senai@118";
-$dbname = "teste_formulario";
-
-$conn = new mysqli($servername, $username, $password, $dbname);
+include 'conexao.php';
 
 // Criar tabela de pilotos da Fórmula 1, se não existir
 $sql = "CREATE TABLE IF NOT EXISTS pilotos_f1 (
@@ -88,6 +83,12 @@ if ($result->num_rows > 0) {
                 <td>" . $row["nome"] . "</td>
                 <td>" . $row["equipe"] . "</td>
                 <td>" . $row["pais"] . "</td>
+                
+                <td>
+                 <a href= 'update.php?id=" . $row["id"] . " '>Editar</a>
+                 <a href='delete.php?id=" . $row["id"] . " '>Excluir</a>
+               </td>
+
               </tr>";
     }
     echo "</table>";
@@ -114,6 +115,12 @@ if ($resOrderNome->num_rows > 0) {
                 <td>" . $row["nome"] . "</td>
                 <td>" . $row["equipe"] . "</td>
                 <td>" . $row["pais"] . "</td>
+
+                <td>
+                 <a href= 'update.php?id=" . $row["id"] . " '>Editar</a>
+                 <a href='delete.php?id=" . $row["id"] . " '>Excluir</a>
+               </td>
+               
               </tr>";
     }
     echo "</table>";

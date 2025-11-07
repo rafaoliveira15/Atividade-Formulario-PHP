@@ -1,4 +1,4 @@
-  body {
+body {
     background-color: #f2f2f2;
     font-family: Arial;
   }
@@ -21,3 +21,21 @@
     border: none;
     cursor: pointer;
   }
+
+  /* Botão editar */
+a[href*='update.php'] {
+    color: #007bff;
+}
+
+a[href*='update.php']:hover {
+    background-color: #0056b3;
+}
+
+/* Botão excluir */
+a[href*='delete.php'] {
+    color: rgb(202, 7, 7);
+}
+
+a[href*='delete.php']:hover {
+    background-color: rgb(126, 5, 5);
+}
