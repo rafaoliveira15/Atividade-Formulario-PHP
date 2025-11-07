@@ -53,11 +53,9 @@ Ao enviar, os dados são processados dinamicamente pelo PHP e exibidos na tela.
 
 ## 🖥️ Capturas de Tela
 
-| Formulário | Atualizar Piloto |
-|:-------------:|:----------------:|
-| <img width="300" height="300" alt="Captura de tela 2025-11-07 143615" src="https://github.com/user-attachments/assets/8b3cccad-4a59-48be-ad72-911c3ba18684" />
-| <img width="300" height="300" alt="Captura de tela 2025-11-07 143630" src="https://github.com/user-attachments/assets/4adc005a-f580-4384-8600-aa76d2fcead7" /> |
-
+| Formulário | Editar Pilotos | 
+|:-------------:|:----------------:|:----------------:|
+| <img width="300" height="300" alt="Captura de tela 2025-11-07 143615" src="https://github.com/user-attachments/assets/49ab5502-9e9c-4cba-b02b-15da00666bbc" /> | <img width="300" height="300" alt="Captura de tela 2025-11-07 143630" src="https://github.com/user-attachments/assets/f0871f7d-fc2d-4973-bd68-dba9ce8ec3ee" /> | 
 
 ---
 
