@@ -55,11 +55,8 @@ Ao enviar, os dados são processados dinamicamente pelo PHP e exibidos na tela.
 
 | Formulário | Atualizar Piloto |  
 |:-------------:|:----------------:|
-| <img width="300" height="300" alt="Formulário de Cadastro de Pilotos" src="https://github.com/user-attachments/assets/f16b29e8-b5c4-4840-adbc-9d1422956c40" /> | <img width="300" height="300" alt="Tela de Atualização de Piloto" src="https://github.com/user-attachments/assets/FILE-ID-AQUI" /> |
-
-| Pilotos Cadastrados | Edição de Piloto |  
-|:-------------------:|:----------------:|
-| <img width="300" height="300" alt="Captura de tela 2025-11-07 143615" src="https://github.com/user-attachments/assets/`coloque-o-link-da-primeira-nova-imagem`" /> | <img width="300" height="300" alt="Captura de tela 2025-11-07 143630" src="https://github.com/user-attachments/assets/`coloque-o-link-da-segunda-nova-imagem`" /> |
+| <img width="300" height="300" alt="Captura de tela 2025-11-07 143615" src="https://github.com/user-attachments/assets/aa0bcd66-d9b1-4799-83eb-02b9ba386c45" /> |
+| <img width="300" height="300" alt="Captura de tela 2025-11-07 143630" src="https://github.com/user-attachments/assets/291de7c7-a1fd-4011-86c3-c94056c72c42" /> |
 
 ---
 
