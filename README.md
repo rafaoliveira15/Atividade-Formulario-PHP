@@ -25,6 +25,8 @@ O design foi criado com base em tons fortes e contrastantes, transmitindo **ener
 | ❤️ **Botão de envio** | `rgb(126, 5, 5)` | Vermelho escuro para diferenciação visual e efeito de clique |
 | ⚪ **Texto e campos** | `#ffffff` | Branco puro, garante boa legibilidade sobre o fundo vermelho |
 | ⚫ **Borda do formulário** | `#cccccc` | Cinza discreto para separação sutil dos elementos |
+| 🔵 **Botão Editar** | `#007bff` | Azul para indicar ação de atualização |
+| 🔴 **Botão Excluir** | `rgb(202, 7, 7)` | Vermelho para representar remoção de dados |
 
 > 💡 A combinação do **vermelho** com o **branco** cria um visual limpo, direto e com alto contraste, ideal para formulários de destaque ou mensagens de alerta.
 
