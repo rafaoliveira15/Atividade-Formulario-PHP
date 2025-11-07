@@ -53,12 +53,12 @@ Ao enviar, os dados são processados dinamicamente pelo PHP e exibidos na tela.
 
 ---
 
-## 🧩 CRUD – Funções de Update e Delete
+# 🧩 CRUD – Funções de Update e Delete
 
 O projeto implementa um CRUD completo (Create, Read, Update, Delete) em PHP e MySQL.
 Abaixo estão os detalhes sobre as partes de exclusão e edição de registros.
 
-# 🗑️ Delete (Excluir)
+## 🗑️ Delete (Excluir)
 
 - O arquivo delete.php é responsável por excluir registros do banco de dados.
 
@@ -66,7 +66,7 @@ Abaixo estão os detalhes sobre as partes de exclusão e edição de registros.
 
 - Após a exclusão, o usuário é redirecionado de volta para a página principal.
 
-# ✏️ Update (Editar)
+## ✏️ Update (Editar)
 
 - O arquivo update.php é responsável por editar registros existentes.
 
